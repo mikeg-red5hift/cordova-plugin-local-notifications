@@ -2,3 +2,4 @@
 /src/windows/**/.vs
 /src/windows/**/bin
 /src/windows/**/obj
+*.DS_Store

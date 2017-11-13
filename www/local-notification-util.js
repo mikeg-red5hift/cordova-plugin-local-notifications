@@ -19,6 +19,8 @@
  * limitations under the License.
  */
 
+require("babel-polyfill");
+
 var exec    = require('cordova/exec'),
     channel = require('cordova/channel');
 
